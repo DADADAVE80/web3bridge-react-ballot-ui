@@ -1,0 +1,1 @@
+export const SUPPORTED_CHAIN = 11155111;
